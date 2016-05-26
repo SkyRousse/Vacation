@@ -6,3 +6,11 @@
   background-color: #eee;
   padding: 20px 20px;
 }
+
+.glyphicon {
+  font-size: 3em;
+  text-align: center;
+  display: block;
+  color: #3a87ad;
+  margin-bottom: 20px;
+}
